@@ -1,0 +1,9 @@
+random
+opencv-python
+cvzone
+time
+datetime
+psycopg2
+pandas
+subprocess.run
+plotly
