@@ -1,6 +1,6 @@
 opencv-python
 cvzone
-psycopg2
+psycopg2-binary
 pandas
 subprocess.run
 plotly
